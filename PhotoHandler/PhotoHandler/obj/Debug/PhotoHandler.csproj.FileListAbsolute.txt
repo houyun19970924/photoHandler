@@ -1,0 +1,9 @@
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\bin\Debug\PhotoHandler.exe.config
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\bin\Debug\PhotoHandler.exe
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\bin\Debug\PhotoHandler.pdb
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\obj\Debug\PhotoHandler.csprojResolveAssemblyReference.cache
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\obj\Debug\PhotoHandler.Form1.resources
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\obj\Debug\PhotoHandler.Properties.Resources.resources
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\obj\Debug\PhotoHandler.csproj.GenerateResource.Cache
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\obj\Debug\PhotoHandler.exe
+H:\text\DataStructureTotal\PhotoHandler\PhotoHandler\obj\Debug\PhotoHandler.pdb
